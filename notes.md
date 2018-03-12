@@ -8,3 +8,5 @@ dotnet watch run
 dotnet restore
 
 export ASPNETCORE_ENVIRONMENT=development 
+
+// test
