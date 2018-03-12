@@ -1,0 +1,10 @@
+/Users/marcst-pierre/Desktop/angularDotnet/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.0/DatingApp.API.deps.json
+/Users/marcst-pierre/Desktop/angularDotnet/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.0/DatingApp.API.runtimeconfig.json
+/Users/marcst-pierre/Desktop/angularDotnet/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.0/DatingApp.API.runtimeconfig.dev.json
+/Users/marcst-pierre/Desktop/angularDotnet/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.0/DatingApp.API.dll
+/Users/marcst-pierre/Desktop/angularDotnet/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.0/DatingApp.API.pdb
+/Users/marcst-pierre/Desktop/angularDotnet/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.0/DatingApp.API.csproj.CoreCompileInputs.cache
+/Users/marcst-pierre/Desktop/angularDotnet/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.0/DatingApp.API.AssemblyInfoInputs.cache
+/Users/marcst-pierre/Desktop/angularDotnet/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.0/DatingApp.API.AssemblyInfo.cs
+/Users/marcst-pierre/Desktop/angularDotnet/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.0/DatingApp.API.dll
+/Users/marcst-pierre/Desktop/angularDotnet/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.0/DatingApp.API.pdb
