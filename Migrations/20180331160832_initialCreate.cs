@@ -55,6 +55,7 @@ namespace DatingApp.API.Migrations
                     DateAdded = table.Column<DateTime>(nullable: false),
                     Description = table.Column<string>(nullable: true),
                     IsMain = table.Column<bool>(nullable: false),
+                    PublicId = table.Column<string>(nullable: true),
                     Url = table.Column<string>(nullable: true),
                     UserId = table.Column<int>(nullable: false)
                 },

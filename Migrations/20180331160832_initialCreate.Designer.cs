@@ -11,8 +11,8 @@ using System;
 namespace DatingApp.API.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20180328003632_AddedPublicId")]
-    partial class AddedPublicId
+    [Migration("20180331160832_initialCreate")]
+    partial class initialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
